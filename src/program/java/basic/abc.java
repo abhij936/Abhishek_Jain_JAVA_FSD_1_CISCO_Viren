@@ -1,4 +1,4 @@
-package program.java.method;
+package program.java.basic;
 
 public class abc {
 
