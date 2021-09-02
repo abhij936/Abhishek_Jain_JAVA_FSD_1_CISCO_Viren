@@ -57,7 +57,7 @@ public class MulOf2dArray {
 	        	  System.out.print("\n");
 	          }
 	       }
-
+	    
 	}
 
 }
