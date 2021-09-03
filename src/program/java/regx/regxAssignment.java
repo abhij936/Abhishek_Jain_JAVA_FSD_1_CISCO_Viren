@@ -20,7 +20,7 @@ public class regxAssignment {
 		System.out.println(Pattern.matches("^(.+)@(.+).com$", "test123prepare@co.edu.com"));
 		
 		System.out.println(Pattern.matches("[+]91[0-9]{10}", "+911234567890"));
-		System.out.println (Pattern.matches("[A-Z][0-9]{3}[a-zA-Z]{10}", "B890akashSAHUU"));
+		System.out.println (Pattern.matches("[A-Z][0-9]{3}[a-zA-Z]{10}", "A123abhishekJA"));
 
 	}
 
